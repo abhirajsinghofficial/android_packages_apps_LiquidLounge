@@ -1046,4 +1046,8 @@
     <string name="gesture_anywhere_64">64px</string>
     <string name="gesture_anywhere_68">68px</string>
 
+    <!-- Ambient Visualizer -->
+    <string name="ambient_visualizer_title">Visualizer on Ambient Display</string>
+    <string name="ambient_visualizer_summary">Displays a spectrum bars on Ambient Display while music is playing</string>
+
 </resources>
